@@ -1,0 +1,23 @@
+{
+  "name": "swhapi",
+  "version": "0.1.1",
+  "description": "SWAPI hapi implementation",
+  "main": "index.js",
+  "scripts": {
+    "run": 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qoelk/swhapi.git"
+  },
+  "author": "qoelk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qoelk/swhapi/issues"
+  },
+  "homepage": "https://github.com/qoelk/swhapi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.2"
+  }
+}
